@@ -2,15 +2,24 @@
 
 <!--
 **05zhi/05zhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### About Me
+I'm Andy, a Computer Science Junior student in Feng Chia University.  
+我叫陳稚翔，也可以叫我 Andy，目前是逢甲大學資訊工程學系的三年級學生。
+
+### 🌱 I’m currently learning
+- Software Testing
+  軟體測試
+- Microprocessor
+  微處理機
+- OS
+  作業系統
+- Spanish
+  西班牙文
+
+### 📫 Contact
+- Email: thisiszhixiang@gmail.com
+
+### 🌐 My website
+- [thisiszhixiang.com](https://thisiszhixiang.com/)
