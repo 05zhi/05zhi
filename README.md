@@ -5,8 +5,8 @@
 -->
 
 ### About Me
-I'm Andy, a Computer Science Junior student in Feng Chia University.  
-我叫陳稚翔，也可以叫我 Andy，目前是逢甲大學資訊工程學系的三年級學生。
+I'm Andy, a Computer Science Senior student in Feng Chia University.  
+我叫陳稚翔，也可以叫我 Andy，目前是逢甲大學資訊工程學系的四年級學生。
 
 ### 🌱 I’m currently learning
 - Software Testing
