@@ -1,8 +1,6 @@
-# 嗨，我是 Andy 👋
+# 嗨，我是陳稚翔（Andy） 👋
 
-[🇺🇸 English](./README.md) | [🇹🇼 繁體中文](./README.zh-TW.md)
-
-我是 **陳稚翔（Andy Chen）**，目前就讀於台灣 **逢甲大學資訊工程學系四年級**。
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
 
 我對 **軟體開發、網頁應用與機器學習** 感興趣，喜歡將想法實際開發成可以使用的專案。
 
@@ -66,7 +64,3 @@
 
 📧 **Email：** [thisiszhixiang@gmail.com](mailto:thisiszhixiang@gmail.com)
 🌐 **個人網站：** [thisiszhixiang.com](https://thisiszhixiang.com/)
-
----
-
-> 持續學習、持續實作，也持續探索新的事物。
