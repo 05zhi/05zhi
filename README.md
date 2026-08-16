@@ -1,5 +1,7 @@
 # Hi, I'm Andy 👋
 
+[🇺🇸 English](./README.md) | [🇹🇼 繁體中文](./README.zh-TW.md)
+
 I'm **Andy Chen (陳稚翔)**, a senior Computer Science student at **Feng Chia University** in Taiwan.
 
 I'm interested in **software development, web applications, and machine learning**, and I enjoy turning ideas into practical projects.
@@ -47,7 +49,7 @@ Research project focused on detecting unknown faults in drone motors using **dee
 
 ### 🚗 Corporate Vehicle Management System
 
-A full-stack vehicle management platform built with **Vue.js + Spring Boot**, featuring JWT authentication, RBAC, vehicle applications, approval workflows, maintenance records, and more.
+A full-stack vehicle management platform built with **Vue.js + Spring Boot**, featuring JWT authentication, RBAC, vehicle applications, approval workflows, and maintenance records.
 
 ### 📅 Interview Scheduling System
 
