@@ -1,10 +1,6 @@
-# Hi, I'm Andy 👋
+# Hi, I'm Chen Zhi-Xiang (Andy) 👋
 
-[🇺🇸 English](./README.md) | [🇹🇼 繁體中文](./README.zh-TW.md)
-
-I'm **Andy Chen (陳稚翔)**, a senior Computer Science student at **Feng Chia University** in Taiwan.
-
-I'm interested in **software development, web applications, and machine learning**, and I enjoy turning ideas into practical projects.
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
 
 ## 👨‍💻 About Me
 
@@ -66,7 +62,3 @@ A web-based interview management system designed to help HR coordinate candidate
 
 📧 **Email:** [thisiszhixiang@gmail.com](mailto:thisiszhixiang@gmail.com)
 🌐 **Website:** [thisiszhixiang.com](https://thisiszhixiang.com/)
-
----
-
-> Always learning, building, and exploring new things.
